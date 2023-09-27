@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+- 👨‍💻 My name is Fahad
+- 🇭🇺 I'm a second year CS student in the University of Debrecen, Hungary
+- 👯 I’m looking to collaborate on any projects involving backend and/or Java development
+- ❤️ I'm especially excited by REST APIs, Spring Boot and Java in general!
+- 📱 Right now I'm tinkering on my own project using Java and Spring Boot - repo coming soon
 
 <!--
 **RanaFahad01/RanaFahad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
